@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ancient_001",
+    "question": "What were the major features of Mauryan administration?",
+    "expected_answer": "Mauryan administration was centralized and hierarchical, with the king at the center of government. It included provincial administration, officials responsible for different departments, taxation, a large standing army, and a system of espionage."
+  },
+  {
+    "id": "ancient_002",
+    "question": "What was the role of Ashoka's Dhamma?",
+    "expected_answer": "Ashoka's Dhamma emphasized moral conduct, non-violence, respect for elders, tolerance toward different religious groups, and concern for the welfare of people and living beings."
+  },
+  {
+    "id": "medieval_001",
+    "question": "What were the main features of the Mughal mansabdari system?",
+    "expected_answer": "The mansabdari system was a system of ranking Mughal officials and military commanders. Mansabdars were assigned ranks and were responsible for maintaining troops, while their compensation was generally provided through salary or jagir assignments."
+  },
+  {
+    "id": "modern_001",
+    "question": "What were the main causes of the Revolt of 1857?",
+    "expected_answer": "The Revolt of 1857 had political, economic, military, social and religious causes. Discontent arose from British annexation policies, economic exploitation, grievances among soldiers, and fears of interference with Indian social and religious practices."
+  },
+  {
+    "id": "culture_001",
+    "question": "What are the major classical dance traditions of India?",
+    "expected_answer": "Major classical Indian dance traditions include Bharatanatyam, Kathak, Kathakali, Kuchipudi, Odissi, Manipuri, Mohiniyattam and Sattriya."
+  }
+]
